@@ -6,6 +6,9 @@ categories: [tutorials, wireshark]
 tags: [tutorials, wireshark]
 image:
     path: assets/headers/wireshark-logo-big.png
+    alt: image alternative text
+    width: 600
+    height: 176
 ---
 
 **Wireshark**
