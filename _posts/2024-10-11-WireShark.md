@@ -6,9 +6,9 @@ categories: [tutorials, wireshark]
 tags: [tutorials, wireshark]
 image:
     path: assets/headers/wireshark-logo-big.png
-    alt: image alternative text
-    width: 600
-    height: 176
+    #alt: image alternative text
+    #width: 600
+    #height: 176
 ---
 
 **Wireshark**
@@ -71,3 +71,14 @@ Here are the top 5 most important things to know about Wireshark, with examples:
    - **Example**: If you’re analyzing TCP connection problems, expand the TCP header in the packet details pane to check for flags like SYN/ACK, window size, or retransmissions.
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
+
+<!---
+Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
+
+Example:     youtubeId: lDi9uFcD7XI
+-->
+
+{% include youtubePlayer.html id=nffFT6FgaMYP726c.youtubeId %}
+#---
+#youtubeId: nffFT6FgaMYP726c
+#---
