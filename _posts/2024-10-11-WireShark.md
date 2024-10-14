@@ -71,14 +71,6 @@ Here are the top 5 most important things to know about Wireshark, with examples:
    - **Example**: If you’re analyzing TCP connection problems, expand the TCP header in the packet details pane to check for flags like SYN/ACK, window size, or retransmissions.
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
-
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
-
-Example:     youtubeId: lDi9uFcD7XI
--->
-
-{% include youtubePlayer.html id=5PKAa6TI82U.youtubeId %}
-#---
-#youtubeId:5PKAa6TI82U
-#---
+---
+youtubeId:5PKAa6TI82U
+---
