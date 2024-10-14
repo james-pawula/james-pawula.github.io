@@ -71,6 +71,6 @@ Here are the top 5 most important things to know about Wireshark, with examples:
    - **Example**: If you’re analyzing TCP connection problems, expand the TCP header in the packet details pane to check for flags like SYN/ACK, window size, or retransmissions.
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
----
-youtubeId:5PKAa6TI82U
----
+
+
+Teehee
