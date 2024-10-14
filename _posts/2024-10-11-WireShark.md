@@ -4,6 +4,7 @@ title: 'WireShark'
 date: 2024-10-11 09:16 -0800
 categories: [tutorials, wireshark] 
 tags: [tutorials, wireshark]
+render_with_liquid: true
 #image:
     #path: assets/headers/wireshark-logo-big.png
 ---
@@ -69,7 +70,7 @@ Here are the top 5 most important things to know about Wireshark, with examples:
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
 
-
+{% include embed/youtube.html id=5PKAa6TI82U&t %}
 
 
 
