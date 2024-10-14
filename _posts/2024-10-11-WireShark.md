@@ -78,7 +78,7 @@ Include this next line in your .md for Youtube videos, make sure to put your vid
 Example:     youtubeId: lDi9uFcD7XI
 -->
 
-{% include youtubePlayer.html id=nffFT6FgaMYP726c.youtubeId %}
+{% include youtubePlayer.html id=5PKAa6TI82U.youtubeId %}
 #---
-#youtubeId: nffFT6FgaMYP726c
+#youtubeId:5PKAa6TI82U
 #---
