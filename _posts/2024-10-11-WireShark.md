@@ -71,9 +71,11 @@ Here are the top 5 most important things to know about Wireshark, with examples:
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
    
-{% include embed/youtube.com/watch?v id='5PKAa6TI82U'%}
-
 ## Youtube Videos
-<https://www.youtube.com/watch?v=5PKAa6TI82U> Chris Geer breaks it all down! for you!!
+<https://www.youtube.com/watch?v=5PKAa6TI82U> Chris Geer breaks it all down for you
+
+>Are we stable?
+
+
 
 
