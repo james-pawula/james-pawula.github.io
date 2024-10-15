@@ -75,7 +75,7 @@ Knowing these essentials will help you effectively analyze and troubleshoot netw
 <https://www.youtube.com/watch?v=5PKAa6TI82U> Chris Geer breaks it all down for you
 
 >Are we stable?
-
+>UGH!
 
 
 
