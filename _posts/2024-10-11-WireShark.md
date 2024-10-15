@@ -7,8 +7,7 @@ tags: [tutorials, wireshark]
 render_with_liquid: false
 image:
     path: assets/headers/wireshark-logo-big.png
-#    lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
- #   alt: Responsive rendering of Chirpy theme on multiple devices.
+
 ---
 
 **Wireshark**
@@ -27,11 +26,11 @@ Getting Started with Wireshark:
 - Open Wireshark, and double-click your network interface (e.g., Killer E2600 Gigabit Ethernet).
 - Packets will be captured and displayed in real-time.
 
-4. Stop and Save the Capture:
+1. Stop and Save the Capture:
 - Click the Stop button (RED square).
 - Save the capture (e.g., FirstTraceFile.pcap) via File > Save.
 
-5. Practice with Sample Captures: Download sample capture files like http.cap from the Wireshark Wiki Sample Captures.
+1. Practice with Sample Captures: Download sample capture files like http.cap from the Wireshark Wiki Sample Captures.
 - To open these files in Wireshark, go to File > Open.
 
 >Wireshark is preinstalled with Kali Linux
@@ -71,8 +70,8 @@ Here are the top 5 most important things to know about Wireshark, with examples:
    - **Example**: If you’re analyzing TCP connection problems, expand the TCP header in the packet details pane to check for flags like SYN/ACK, window size, or retransmissions.
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
- 
-{% include embed/youtube.html id=`5PKAa6TI82U`%}
+   
+{% include embed/youtube.com/watch?v id='5PKAa6TI82U'%}
 
 ## Youtube Videos
 <https://www.youtube.com/watch?v=5PKAa6TI82U> Chris Geer breaks it all down! for you!!
