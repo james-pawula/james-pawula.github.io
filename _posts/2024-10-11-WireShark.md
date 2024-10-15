@@ -7,8 +7,8 @@ tags: [tutorials, wireshark]
 render_with_liquid: false
 image:
     path: assets/headers/wireshark-logo-big.png
-    lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-    alt: Responsive rendering of Chirpy theme on multiple devices.
+#    lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+ #   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 **Wireshark**
@@ -71,10 +71,10 @@ Here are the top 5 most important things to know about Wireshark, with examples:
    - **Example**: If you’re analyzing TCP connection problems, expand the TCP header in the packet details pane to check for flags like SYN/ACK, window size, or retransmissions.
 
 Knowing these essentials will help you effectively analyze and troubleshoot network traffic using Wireshark.
-
-
+ 
+{% include embed/youtube.html id=`5PKAa6TI82U`%}
 
 ## Youtube Videos
 <https://www.youtube.com/watch?v=5PKAa6TI82U> Chris Geer breaks it all down! for you!!
 
-{% include embed/youtube.html id='5PKAa6TI82U' %} 
+
