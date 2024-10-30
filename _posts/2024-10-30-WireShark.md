@@ -4,9 +4,6 @@ title: 'WireShark'
 date: 2024-10-30 09:16 -0800
 categories: [tutorials, wireshark] 
 tags: [tutorials, wireshark]
-render_with_liquid: false
-image:
-    path: assets/headers/wireshark-logo-big.png
 
 ---
 
