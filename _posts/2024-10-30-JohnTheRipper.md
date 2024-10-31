@@ -2,8 +2,8 @@
 layout: post
 title: 'John the Ripper: A Powerful Password Cracking Tool'
 date: 2024-10-30 09:16 -0800
-categories: [tutorials, john the ripper] 
-tags: [tutorials, john the ripper]
+categories: [Tutorials, John the Ripper] 
+tags: [Tutorials, John the Ripper]
 ---
 
 **John the Ripper: A Powerful Password Cracking Tool**

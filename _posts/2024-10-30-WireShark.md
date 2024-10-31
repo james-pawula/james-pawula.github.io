@@ -2,9 +2,8 @@
 layout: post
 title: 'WireShark'
 date: 2024-10-30 09:16 -0800
-categories: [tutorials, wireshark] 
-tags: [tutorials, wireshark]
-
+categories: [Tutorials, Wireshark] 
+tags: [Tutorials, Wireshark]
 ---
 
 **Wireshark**
