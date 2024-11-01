@@ -6,6 +6,7 @@ categories: [Tutorials, Wireshark]
 tags: [Tutorials, Wireshark]
 image:
   path: /assets/headers/wireshark-logo-big.png 
+  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 **Wireshark**
