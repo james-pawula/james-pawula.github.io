@@ -7,5 +7,4 @@ tags: [Tutorials, Cross Site Scripting (XSS)]
 ---
 
 #### Cross Site Scripting (XSS)
-> The Jekyll tag `{% highlight %}` is not compatible with this theme.
-{: .prompt-danger }
+
