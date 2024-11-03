@@ -7,5 +7,4 @@ tags: [Tutorials, Cross Site Scripting (XSS)]
 ---
 
 #### Cross Site Scripting (XSS)
-> COMING SOON `{% highlight %}` COMING SOON!
-{: .prompt-danger }
+
