@@ -6,5 +6,6 @@ categories: [Tutorials, Cross Site Scripting (XSS)]
 tags: [Tutorials, Cross Site Scripting (XSS)]
 ---
 
-#### Cross Site Scripting (XSS)
+#### **Cross Site Scripting**
 
+More to come about Cross Site Scripting XSS
