@@ -1,5 +1,5 @@
 ---
-title: 'XSS'
+title: 'Cross Site Scripting'
 date: 2024-11-02 10:51 -0400
 categories: [Tutorials, Cross Site Scripting]
 tags: [Tutorials, XSS writeup]
