@@ -6,6 +6,7 @@ categories: [Tutorials, Wireshark]
 tags: [Tutorials, Wireshark]
 image:
   path: /assets/headers/wireshark-logo-big.png 
+  lqip: 
 ---
   
 
