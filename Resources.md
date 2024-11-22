@@ -1,5 +1,6 @@
 ---
 layout: "page"
+title: Resources
 ---
 
 # OSINT Tools and Resources
@@ -82,3 +83,4 @@ layout: "page"
 🔗 [Darknet Diaries](https://darknetdiaries.com/) - Podcast about cybercrime and hacking. <br>
 🔗 [Shodan IoT Search Engine](https://www.shodan.io/) - Search for exposed IoT devices. <br>
 🔗 [Reverse Image Search](https://tineye.com/) - Reverse lookup for images. <br>
+g
