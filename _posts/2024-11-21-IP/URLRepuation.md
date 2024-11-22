@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Resources'
+title: 'URL / IP Repuation'
 date: 2024-11-19 09:16 -0800
-categories: [URL / IP Repuation] 
-tags: [URL / IP Repuation]
+categories: [Resources ,URL / IP Repuation] 
+tags: [Resources, URL / IP Repuation]
 ---
 
 ## Threat Intelligence

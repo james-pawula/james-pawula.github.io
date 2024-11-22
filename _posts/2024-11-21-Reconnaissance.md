@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Resources'
+title: 'Reconnaissance'
 date: 2024-11-19 09:16 -0800
-categories: [Reconnaissance] 
-tags: [Reconnaissance]
+categories: [Resources, Reconnaissance] 
+tags: [Resources, Reconnaissance]
 ---
 
 ## Reconnaissance

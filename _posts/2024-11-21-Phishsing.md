@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Resources'
+title: 'Phishing'
 date: 2024-11-19 09:16 -0800
-categories: [Phishing] 
-tags: [Phishing]
+categories: [Resources, Phishing] 
+tags: [Resources, Phishing]
 ---
 
 ## Phishing
