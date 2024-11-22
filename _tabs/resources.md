@@ -1,6 +1,6 @@
 ---
 layout: page
 icon: fas fa-beer
-order: 5
+order: 2
 ---
 
