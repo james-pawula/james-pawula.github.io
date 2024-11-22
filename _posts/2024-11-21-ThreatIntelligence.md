@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Resources'
+title: 'Threat Intelligence'
 date: 2024-11-19 09:16 -0800
-categories: [Threat Intelligence] 
+categories: [Resources, Threat Intelligence] 
 tags: [Threat Intelligence]
 ---
 
