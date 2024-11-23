@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-beer
+icon: fas fa-layer-group
 order: 2
 ---
 
