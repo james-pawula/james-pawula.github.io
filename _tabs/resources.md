@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-layer-group
+icon: fas fa-list
 order: 2
 ---
 
