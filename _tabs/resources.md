@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-list
+icon: fas fa-sticky-note
 order: 2
 ---
 
