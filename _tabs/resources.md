@@ -1,5 +1,6 @@
 ---
 layout: page
+name: OSINT Tools and Resources!
 icon: fas fa-sticky-note
 order: 2
 ---
