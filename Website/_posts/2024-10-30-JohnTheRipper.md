@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'John the Ripper: A Powerful Password Cracking Tool'
-date: 2025-01-30 09:16 -0800
+date: 2025-02-30 09:16 -0800
 categories: [Tutorials, John the Ripper] 
 tags: [Tutorials, John the Ripper]
 ---
