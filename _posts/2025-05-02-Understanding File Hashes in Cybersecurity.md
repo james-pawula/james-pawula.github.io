@@ -4,6 +4,9 @@ title: "Understanding File Hashes in Cybersecurity"
 date: 2025-05-02
 categories: cybersecurity tools
 tags: [hashes, powershell, kali, virustotal, hashcat]
+image:
+  path: /assets/headers/FileHashes.png 
+  lqip: 
 ---
 
 
