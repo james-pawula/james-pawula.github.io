@@ -1,0 +1,23 @@
+[
+    {
+        "company": "Wah Wah",
+        "title": "Wah Wah Wah",
+        "description": "pasted text",
+        "date_applied": "2025-05-22",
+        "status": "Applied"
+    },
+    {
+        "company": "wda",
+        "title": "wad",
+        "description": "awdawdawd",
+        "date_applied": "2025-05-22",
+        "status": "Interview"
+    },
+    {
+        "company": "wdasdaw",
+        "title": "dadsdawdadw",
+        "description": "dadafsagaegfagag",
+        "date_applied": "2025-05-22",
+        "status": "Rejected"
+    }
+]
